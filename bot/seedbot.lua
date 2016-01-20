@@ -210,6 +210,7 @@ function create_config( )
     "inpm",
     "banhammer",
     "stats",
+    "plugins",
     "anti_spam",
     "owners",
     "arabic_lock",
