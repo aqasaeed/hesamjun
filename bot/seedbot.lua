@@ -222,17 +222,10 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {146340607,156907037,163180332},--Sudo users
+    sudo_users = {146340607,167328685},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[SPARTACUS Robot Ver 3.7
-AntispamBot : @tele_sparta
-Our Channel : @sparta_antispam
-Admins
-@blackhacker666 [Developer]
-@behisins_DANTE_died_wawx [1 S.t admin]
-@MaMadadmindark [2 S.t admin]
-http://uupload.ir/files/mxct_tele_spartacus.jpg
+    about_text = [[
 ]],
     help_text_realm = [[
 Realm Commands:
